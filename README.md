@@ -15,3 +15,5 @@ Explain web3 projects in 30 words
 - Nym: 带激励版的Tor，使用密码学技术确定路由的服务质量，并予以奖励；
 - Arbitrum：交互式Rollup，双方通过二分法将分歧缩小为一个指令，供合约执行并论断。
 
+## Reference
+- https://web3caff.com/zh/archives/7342
