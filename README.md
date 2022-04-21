@@ -12,8 +12,8 @@ Explain web3 projects in 30 words
 - Ceramic：可靠的去中心化数据库，可以为 dTwitter 或 dReddit 等应用提供动力；
 - Fluence：dAWS Lambda；
 - UXD：创建完全抵押的去中心化稳定币的最有效的资本运作方式。
-- Nym: 带激励版的Tor，使用密码学技术确定路由的服务质量，并予以奖励；
-- Arbitrum：交互式Rollup，双方通过二分法将分歧缩小为一个指令，供合约执行并论断。
+- Nym: 带激励版的Tor，使用密码学技术确定路由的服务质量，并予以奖励；(By https://github.com/arc0035)
+- Arbitrum：交互式Rollup，双方通过二分法将分歧缩小为一个指令，供合约执行并论断。(By https://github.com/arc0035)
 
 ## Reference
 - https://web3caff.com/zh/archives/7342
